@@ -3,8 +3,8 @@
 ---
 
 ## Getting started
-Fork & clone the repository locally to work with the code.  You'll beed nodejs version 14.x.
-
+Fork & clone the repository locally to work with the code.  You'll need nodejs version 14.x and express 4.17.x.
+Install express by running `npm install express`
 
 ## Running locally
 Run the following code from the repository root to start the application locally
