@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+app.disable("x-powered-by");
 
 app.get('/healthcheck', function (req, res) {
    res.end("ok")
